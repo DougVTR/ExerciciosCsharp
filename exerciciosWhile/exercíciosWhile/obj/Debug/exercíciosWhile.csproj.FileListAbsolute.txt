@@ -1,0 +1,8 @@
+C:\Users\Caio\Desktop\Aulas de C\exercíciosWhile\exercíciosWhile\bin\Debug\exercíciosWhile.exe.config
+C:\Users\Caio\Desktop\Aulas de C\exercíciosWhile\exercíciosWhile\bin\Debug\exercíciosWhile.exe
+C:\Users\Caio\Desktop\Aulas de C\exercíciosWhile\exercíciosWhile\bin\Debug\exercíciosWhile.pdb
+C:\Users\Caio\Desktop\Aulas de C\exercíciosWhile\exercíciosWhile\obj\Debug\exercíciosWhile.csproj.AssemblyReference.cache
+C:\Users\Caio\Desktop\Aulas de C\exercíciosWhile\exercíciosWhile\obj\Debug\exercíciosWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caio\Desktop\Aulas de C\exercíciosWhile\exercíciosWhile\obj\Debug\exercíciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\Aulas de C\exercíciosWhile\exercíciosWhile\obj\Debug\exercíciosWhile.exe
+C:\Users\Caio\Desktop\Aulas de C\exercíciosWhile\exercíciosWhile\obj\Debug\exercíciosWhile.pdb
