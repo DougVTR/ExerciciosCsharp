@@ -1,0 +1,8 @@
+C:\Users\Caio\Desktop\Aulas de C\exerciciosFor\exerciciosFor\bin\Debug\exerciciosFor.exe.config
+C:\Users\Caio\Desktop\Aulas de C\exerciciosFor\exerciciosFor\bin\Debug\exerciciosFor.exe
+C:\Users\Caio\Desktop\Aulas de C\exerciciosFor\exerciciosFor\bin\Debug\exerciciosFor.pdb
+C:\Users\Caio\Desktop\Aulas de C\exerciciosFor\exerciciosFor\obj\Debug\exerciciosFor.csproj.AssemblyReference.cache
+C:\Users\Caio\Desktop\Aulas de C\exerciciosFor\exerciciosFor\obj\Debug\exerciciosFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caio\Desktop\Aulas de C\exerciciosFor\exerciciosFor\obj\Debug\exerciciosFor.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\Aulas de C\exerciciosFor\exerciciosFor\obj\Debug\exerciciosFor.exe
+C:\Users\Caio\Desktop\Aulas de C\exerciciosFor\exerciciosFor\obj\Debug\exerciciosFor.pdb
