@@ -25,6 +25,17 @@ namespace exercíciosWhile
                     parar= true;
                 }
             }
+            Console.WriteLine("Também é possível utilizar o 'Do while', que irá executar pelo menos uma vez o laço.");
+            int numero = 0;
+            do
+            {
+                Console.WriteLine("Aqui já estamos dentro do laço de repetição. Para testar, escreva qualquer número que será elevado a 2. Para parar digite 0'");
+                numero = int.Parse(Console.ReadLine());
+                numero *= numero;
+                Console.WriteLine("Resultado: "+ numero);
+
+            } while (numero !=0);
+            Console.WriteLine("Fim do laço de repetição :)");
         }
     }
 }
