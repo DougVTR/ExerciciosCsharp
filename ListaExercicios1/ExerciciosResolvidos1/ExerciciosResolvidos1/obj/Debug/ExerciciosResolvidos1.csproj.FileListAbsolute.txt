@@ -1,0 +1,8 @@
+C:\Users\Caio\Desktop\Exercícios C\ExerciciosCsharp\ListaExercicios1\ExerciciosResolvidos1\ExerciciosResolvidos1\obj\Debug\ExerciciosResolvidos1.csproj.AssemblyReference.cache
+C:\Users\Caio\Desktop\Exercícios C\ExerciciosCsharp\ListaExercicios1\ExerciciosResolvidos1\ExerciciosResolvidos1\obj\Debug\ExerciciosResolvidos1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caio\Desktop\Exercícios C\ExerciciosCsharp\ListaExercicios1\ExerciciosResolvidos1\ExerciciosResolvidos1\obj\Debug\ExerciciosResolvidos1.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\Exercícios C\ExerciciosCsharp\ListaExercicios1\ExerciciosResolvidos1\ExerciciosResolvidos1\bin\Debug\ExerciciosResolvidos1.exe.config
+C:\Users\Caio\Desktop\Exercícios C\ExerciciosCsharp\ListaExercicios1\ExerciciosResolvidos1\ExerciciosResolvidos1\bin\Debug\ExerciciosResolvidos1.exe
+C:\Users\Caio\Desktop\Exercícios C\ExerciciosCsharp\ListaExercicios1\ExerciciosResolvidos1\ExerciciosResolvidos1\bin\Debug\ExerciciosResolvidos1.pdb
+C:\Users\Caio\Desktop\Exercícios C\ExerciciosCsharp\ListaExercicios1\ExerciciosResolvidos1\ExerciciosResolvidos1\obj\Debug\ExerciciosResolvidos1.exe
+C:\Users\Caio\Desktop\Exercícios C\ExerciciosCsharp\ListaExercicios1\ExerciciosResolvidos1\ExerciciosResolvidos1\obj\Debug\ExerciciosResolvidos1.pdb
